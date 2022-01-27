@@ -1,14 +1,4 @@
-﻿/*
-Theme Name: Oli
-Description: Responsive Coming Soon Template
-Author: Erilisdesign
-Theme URI: https://preview.erilisdesign.com/html/oli
-Author URI: https://themeforest.net/user/erilisdesign
-Version: 2.1.0
-License: https://themeforest.net/licenses/standard
-*/
-
-/*------------------------------------------------------------------
+﻿/*------------------------------------------------------------------
 [Table of contents]
 
 1. Global Styles
@@ -135,7 +125,7 @@ h6, .h6 {
 	position: relative;
 	margin-top: 0;
 	margin-bottom: 0;
-	font-family: 'Montserrat', Helvetica, sans-serif;
+	font-family: 'Raleway', Helvetica, sans-serif;
 	color: inherit;
 }
 

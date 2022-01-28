@@ -30,7 +30,7 @@ License: https://themeforest.net/licenses/standard
 		autoCloseMobileNavigation = true,
 		$btnBackToTop = $('.back-to-top'),
 		$preloader = $('#preloader'),
-		preloaderDelay = 1200,
+		preloaderDelay = 1000,
 		preloaderFadeOutTime = 500,
 		target,
 		trueMobile;

@@ -1884,7 +1884,7 @@ div.featherlight-iframe .featherlight-content {
 	-moz-animation: circle infinite .75s linear;
 	-o-animation: circle infinite .75s linear;
 	animation: circle infinite .75s linear;
-	border: 5px solid #2754db;
+	border: 5px solid #5882ff;
 	border-top-color: rgba(0, 0, 0, .27);
 	border-right-color: rgba(0, 0, 0, .27);
 	border-bottom-color: rgba(0, 0, 0, .27);
@@ -1898,7 +1898,7 @@ div.featherlight-iframe .featherlight-content {
 }
 
 .preloader.preloader-dark {
-	background: #030507;
+	background: #ffffff;
 }
 
 .preloader.preloader-dark .circle-side {
